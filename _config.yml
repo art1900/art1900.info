@@ -1,0 +1,45 @@
+# Site
+name: 'Art Around 1900'
+description: 'Art Around 1900'
+logo: 'assets/images/logo.svg'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+avatar: 'assets/images/sal.jpg'
+disqus: 'art1900'
+email: 'contact@art1900.info'
+
+include: ["_pages"]
+permalink: /:categories/:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Pagination
+paginate: 20
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
