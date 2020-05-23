@@ -1,9 +1,9 @@
 # Site
 name: 'Art Around 1900'
 description: 'Art Around 1900'
+url: "https://art1900.info"
 logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.png'
-baseurl: ''
 avatar: 'assets/images/sal.jpg'
 disqus: 'art1900'
 email: 'contact@art1900.info'
