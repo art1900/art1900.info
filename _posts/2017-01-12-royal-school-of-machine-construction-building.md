@@ -14,7 +14,7 @@ According to Dr. hab. R. Makała buildings were designed by Wilhelm Meyer. Unfor
 
 The building was home to the Royal School of Machine Construction in the early 1900s. It is currently hosting the West Pomeranian University of Technology, Faculty of Electrical Engineering.
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1590075097755!6m8!1m7!1s3k3DQbVfjSaxGDN3bBTtgA!2m2!1d53.42497806628658!2d14.53369903569726!3f144.16395261710178!4f26.026398272328734!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1590075097755!6m8!1m7!1s3k3DQbVfjSaxGDN3bBTtgA!2m2!1d53.42497806628658!2d14.53369903569726!3f144.16395261710178!4f26.026398272328734!5f0.7820865974627469" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 <hr name="references">
 
